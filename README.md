@@ -19,21 +19,21 @@
 ## Install `CLI`
 For linux:
 ```
-$ wget -O candi https://storage.googleapis.com/agungdp/bin/candi/candi-linux && chmod +x candi && sudo mv candi /usr/local/bin
+$ wget -O candi https://storage.googleapis.com/agungdp/bin/candi-golangid/candi-linux && chmod +x candi && sudo mv candi /usr/local/bin
 $ candi
 ```
 
 For macOS:
 ```
-$ wget -O candi https://storage.googleapis.com/agungdp/bin/candi/candi-osx && chmod +x candi && mv candi /usr/local/bin
+$ wget -O candi https://storage.googleapis.com/agungdp/bin/candi-golangid/candi-osx && chmod +x candi && mv candi /usr/local/bin
 $ candi
 ```
 
 For windows:
 ```
-https://storage.googleapis.com/agungdp/bin/candi/candi-x64.exe (64 bit)
+https://storage.googleapis.com/agungdp/bin/candi-golangid/candi-x64.exe (64 bit)
 or 
-https://storage.googleapis.com/agungdp/bin/candi/candi-x86.exe (32 bit)
+https://storage.googleapis.com/agungdp/bin/candi-golangid/candi-x86.exe (32 bit)
 ```
 
 Or build binary from source:
